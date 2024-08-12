@@ -1,5 +1,5 @@
 # caparaison operators
-print("comparason operator ")
+print("comparaison operator ")
 print(10> 5 )
 print(10> 5 )
 print(10>= 5 )
@@ -14,7 +14,7 @@ print(10 < 4 or 7 < 5 or "Djamilla" != "Auguste ")
 print(not("James" == "Maria"))
 
 # Assignment operators
-print("Assigment  operator ")
+print("Assignment  operator ")
 brand = "Amigoscode"
 brand = "Nike"
 print(brand)

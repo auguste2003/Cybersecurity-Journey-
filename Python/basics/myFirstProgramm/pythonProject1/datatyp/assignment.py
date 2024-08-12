@@ -6,7 +6,7 @@ num_complex = 2 + 3j
 
 print(type(num_int))     # <class 'int'>
 print(type(num_float))   # <class 'float'>
-print(type(num_complex)) # <class 'complex'>
+print(type(num_complex))  # <class 'complex'>
 # Exercise 2: Text Type
 
 greeting = "Hello, Python!"

@@ -8,6 +8,7 @@ Write a program that takes a test score as input and prints the grade:
 60-69: "D"
 Below 60: "F"
 """
+
 score = int(input("Enter your score: "))
 if 90 <= score <= 100:
     print("A")
@@ -19,3 +20,5 @@ elif 60 <= score <= 69:
     print("D")
 elif score < 60:
     print("F")
+
+
